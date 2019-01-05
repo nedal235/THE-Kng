@@ -1,0 +1,22 @@
+{
+  "name": "THE KING BOT",
+  "version": "1.0.0",
+  "description": "> ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Golden Eagle",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "gif-search": "^2.0.1",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.1.1",
+    "youtube-info": "^1.3.2",
+    "ytdl-core": "^0.28.3"
+  }
+}
